@@ -4,7 +4,8 @@ import copy
 import re
 import xml.etree.ElementTree as ET
 
-import Code128
+# no barcode necessary
+#import Code128
 
 from io import BytesIO
 
